@@ -1,6 +1,0 @@
-{
-  "name": "Yapı Evrak Asistanı",
-  "description": "Yapı kullanma izin belgesi başvuru evraklarından (PDF) tarih ve sayı/YİBF bilgilerini çıkarır ve otomatik standart formatlanmış bir liste oluşturur.",
-  "requestFramePermissions": [],
-  "majorCapabilities": []
-}
